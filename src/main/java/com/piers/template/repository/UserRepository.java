@@ -1,7 +1,7 @@
 package com.piers.template.repository;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.piers.template.data.User;
+import com.piers.template.data.domain.User;
 
 /**
  * @author piers
